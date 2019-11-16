@@ -13,7 +13,7 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label='Pay Now'
-      name='CRWN Clothing Ltd.'
+      name='lakida Tech Ltd.'
       billingAddress
       shippingAddress
       image='https://svgshare.com/i/CUz.svg'

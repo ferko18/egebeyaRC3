@@ -3,13 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
+  apiKey: "AIzaSyA2NRX0LTgIb5dQvC46RtbcdocasQ9r2Ig",
+  authDomain: "egebeya-be.firebaseapp.com",
+  databaseURL: "https://egebeya-be.firebaseio.com",
+  projectId: "egebeya-be",
+  storageBucket: "egebeya-be.appspot.com",
+  messagingSenderId: "933134200275",
+  appId: "1:933134200275:web:8feac27ae2310d76301326",
+  measurementId: "G-44KB4Z4HZN"
 };
 
 firebase.initializeApp(config);
