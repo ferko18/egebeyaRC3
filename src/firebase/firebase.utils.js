@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyA2NRX0LTgIb5dQvC46RtbcdocasQ9r2Ig",
+  apiKey: "deleted",
   authDomain: "egebeya-be.firebaseapp.com",
   databaseURL: "https://egebeya-be.firebaseio.com",
   projectId: "egebeya-be",
